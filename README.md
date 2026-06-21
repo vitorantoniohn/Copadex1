@@ -44,21 +44,6 @@ Android Studio (Versão mais recente recomendada, ex: Hedgehog ou Iguana).
 
 SDK do Android API 34+ configurado.
 
-Passos
-
-Faça o clone deste repositório:
-
-git clone [https://github.com/seu-usuario/copadex-meu-album.git](https://github.com/seu-usuario/copadex-meu-album.git)
-
-
-
-Abra o Android Studio e selecione File > Open, navegando até a pasta do projeto clonado.
-
-Aguarde o Gradle Sync (sincronização do elefante) ser concluído.
-
-Conecte o seu dispositivo Android via cabo USB ou inicie o Emulador (Device Manager).
-
-Clique no botão de Run (Play verde) no topo do Android Studio (Shift + F10).
 
 👥 Equipe de Desenvolvimento
 
@@ -69,3 +54,17 @@ Eduardo de Oliveira Fernandes - Gerente de Projeto / Desenvolvedor
 Daniel Caruso de Sá Teixeira - Gerente de Negócios / Desenvolvedor
 
 Gabriel Albuquerque Varela Santarello - Membro do Projeto / Desenvolvedor
+
+
+
+Imagens do projeto:
+
+<p align="center">
+  <img src="https://github.com/vitorantoniohn/Copadex1/blob/master/Fotos%20Copadex/imagem%201.png?raw=true" alt="Tela Início" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/vitorantoniohn/Copadex1/blob/master/Fotos%20Copadex/imagem%202.png?raw=true" alt="Tela Álbum" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/vitorantoniohn/Copadex1/blob/master/Fotos%20Copadex/imagem%203.png?raw=true" alt="Tela Troca" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/vitorantoniohn/Copadex1/blob/master/Fotos%20Copadex/imagem%204.png?raw=true" alt="Tela Perfil" width="200" />
+</p>
